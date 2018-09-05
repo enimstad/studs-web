@@ -77,7 +77,7 @@ class Recruitment extends PureComponent {
 
         new StudsRecruitmentSectionModel(
           3,
-          'IT- och informationsgrupperna ',
+          'IT-gruppen och informationsgruppen ',
           `
           jobbar med information om Studs, både internt och externt. 
           Informationsgruppen består av fotografer, redaktörer och en Art Director. 
